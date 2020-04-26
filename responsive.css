@@ -1,0 +1,22 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+	.gambar img {
+		width: 30px;
+		height: ;
+	}
+	
+	.gambar1 img {
+		width: 70px;
+		height: ;
+	}
+	
+	.gambar2 img {
+		width: 50px;
+		height: ;
+	}
+}

@@ -31,4 +31,12 @@
 	.ekstra_1 {
 		height: 400px;
 	}
+	
+	.dropdown-child {
+		min-width: 100px;
+	}
+	
+	.dropdown-child a {
+		font-size: 2px;
+	}
 }

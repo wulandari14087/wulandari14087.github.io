@@ -33,10 +33,10 @@
 	}
 	
 	.dropdown-child {
-		min-width: 100px;
+		min-width: 70px;
 	}
 	
 	.dropdown-child a {
-		font-size: 2px;
+		font-size:5px;
 	}
 }

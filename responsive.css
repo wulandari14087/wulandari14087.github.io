@@ -5,10 +5,6 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-	.daftar {
-		flex-wrap; wrap;
-		width: 70%;
-	}/*
 	.j8 {
 		padding-bottom: 20px;
 	}
@@ -34,5 +30,5 @@
 	
 	.ekstra_1 {
 		height: 400px;
-	}*/
+	}
 }

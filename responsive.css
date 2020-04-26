@@ -6,8 +6,8 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
 	.j8 {
-		padding-bottom: 20px;
-		font-size: 15px;
+		padding-bottom: 10px;
+		font-size: 10px;
 	}
 	
 	.gambar img {

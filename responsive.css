@@ -1,6 +1,16 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  
+  	.dropdown-child {
+		min-width: 100px;
+	}
+	
+	.dropdown-child a {
+		font-size:5px;
+	}
+	
+	.dropdown-child p {
+		font-size: 10px;
+	}
 }
 
 /* Untuk Smartphone */

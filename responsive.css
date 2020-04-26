@@ -29,7 +29,7 @@
 	}
 	
 	.ekstra_1 {
-		height: 400px;
+		height: 200px;
 	}
 	
 	.dropdown-child {
@@ -41,6 +41,6 @@
 	}
 	
 	.dropdown-child p {
-		font-size: 10px;
+		font-size: 7px;
 	}
 }

@@ -5,6 +5,11 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
+	.j8 {
+		padding-bottom: 20px;
+		font-size: 15px;
+	}
+	
 	.gambar img {
 		width: 20px;
 		height: 20px;

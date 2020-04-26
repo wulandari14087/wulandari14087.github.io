@@ -39,4 +39,8 @@
 	.dropdown-child a {
 		font-size:5px;
 	}
+	
+	.dropdown-child p {
+		font-size: 15px;
+	}
 }

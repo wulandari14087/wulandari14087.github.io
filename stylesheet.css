@@ -1,6 +1,6 @@
 .ekstra_1 {
 	width: 100%;
-	height: 300px;
+	height: 350px;
 	background-color: rgb(106, 176, 76);
 }
 
@@ -191,9 +191,9 @@ animation-duration: 5s;cursor: pointer;}
 /*main*/
 .utama {
   width: 100%;
-  padding: 180px 0 100px 0;
+  padding: 140px 0 140px 0;
   background-image: url(https://www.pblworks.org/sites/default/files/inline-images/celebration.jpg);
   background-size: cover;
-  color: white;
+  color: rgb(106, 176, 76);
   text-align: center;
 }

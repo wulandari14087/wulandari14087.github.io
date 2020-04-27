@@ -188,4 +188,12 @@ animation-duration: 5s;cursor: pointer;}
 	
 }
 
-
+/*main*/
+.main {
+  width: 100%;
+  padding: 180px 0 100px 0;
+  background-image: url(https://www.pblworks.org/sites/default/files/inline-images/celebration.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}

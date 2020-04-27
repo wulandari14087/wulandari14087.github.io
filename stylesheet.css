@@ -97,13 +97,16 @@ li {
 }
 
 .header-logo {
+	padding: 20px 40px;
+	font-size: 36px;
 	color: white;
 	float: left;
 }
 
-.header-list {
+.header-list li{
 	color: white;
 	float: left;
+	padding: 33px 20px;
 }
 
 /*ekstra2*/

@@ -42,10 +42,6 @@
 	height: 100px;
 }
 
-.fa fa-heart {
-	color: black;
-}
-
 .img-circle {
 	border-radius: 99%;
 	border: 0px;
@@ -54,7 +50,7 @@
 }
 
 .profil {
-    background-color: #e15f41;
+    /*background-color: #e15f41;*/
     color: black;
     border: none;
     cursor: pointer;
@@ -62,10 +58,10 @@
     margin-top:20px;
 }
  
-.profil:hover {
+/*.profil:hover {
     background-color: #e38e7b;
     }
- 
+ */
 .dropdown {
     position: relative;
     display: inline-block;
@@ -84,7 +80,7 @@
     display: block;
 }
 
-.dropdown:hover .dropdown-child {
+/*.dropdown:hover */.dropdown-child {
     display: block;
 }
 
@@ -95,6 +91,9 @@ li {
 
 .header {
 	background-color: #000000;
+	height: 100px;
+	width: 100%;
+	padding-bottom: 5px;
 }
 
 .header-logo {

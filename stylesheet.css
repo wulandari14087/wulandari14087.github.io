@@ -133,6 +133,7 @@ a {
 
 
 .wisata-wrapper {
+  width: 100%;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -168,6 +169,8 @@ animation-duration: 5s;cursor: pointer;}
 
 /*footer*/
 	.footer {
+	height: 100px;
+	width: 100%;
 	background-color: black;
 	text-align: center;
 }

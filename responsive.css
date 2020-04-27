@@ -1,15 +1,18 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  	.gambar {
-		width:10%;
+	.gambar img {
+		width: 60px;
+		height: 60px;
 	}
-	
-	.gambar1 {
-		width:10%;
+
+	.gambar1 img {
+		width: 100px;
+		height: 100px;
 	}
-	
-	.gambar2 {
-		width:10%;
+
+	.gambar2 img {
+		width: 80px;
+		height: 80px;
 	}
 	
 	.dropdown-child {

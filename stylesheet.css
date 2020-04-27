@@ -171,15 +171,16 @@ animation-duration: 5s;cursor: pointer;}
 	.footer {
 	height: 100px;
 	width: 100%;
-	background-color: black;
+	background-color: #000000;
 	text-align: center;
 }
 
-.footer-logo {
+.footer-logo h2{
 	color: white;
+	
 }
 
-.footer-list {
+.footer-list h3{
 	color: white;
 	
 }

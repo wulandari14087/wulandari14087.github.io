@@ -54,3 +54,28 @@
 		font-size: 7px;
 	}
 }
+
+/*ekstra2*/
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .wisata {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+
+ .wisata-icon h4 {width: 100%;}
+ .wisata-icon img {width: 100%;}
+ .wisata-icon p {width: 100%;}
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .wisata {
+    width: 100%;
+  }
+  .wisata-icon h4 {width: 100%;}
+  .wisata-icon img {width: 100%;}
+  .wisata-icon p {width: 100%;}
+}
+

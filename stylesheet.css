@@ -97,7 +97,7 @@ li {
 }
 
 .header-logo {
-	padding: 20px 10px;
+	padding: 10px;
 	font-size: 20px;
 	color: white;
 	float: left;
@@ -106,7 +106,7 @@ li {
 .header-list li{
 	color: white;
 	float: left;
-	padding: 33px 20px;
+	padding: 33px 25px;
 }
 
 /*ekstra2*/

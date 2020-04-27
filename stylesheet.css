@@ -1,7 +1,7 @@
 .ekstra_1 {
 	width: 100%;
 	height: 300px;
-	background-color: #87ceeb;
+	background-color: ##f7f7f7;
 }
 
 .j8 {
@@ -54,8 +54,8 @@
 }
 
 .profil {
-    background-color: #1e90ff;
-    color: white;
+    background-color: #e15f41;
+    color: black;
     border: none;
     cursor: pointer;
     padding:5px;
@@ -63,7 +63,7 @@
 }
  
 .profil:hover {
-    background-color: #00bfff;
+    background-color: #e38e7b;
     }
  
 .dropdown {
@@ -73,12 +73,12 @@
 
 .dropdown-child {
     display: none;
-    background-color: #00bfff;
+    background-color: #e38e7b;
     min-width: 200px;
 }
 
 .dropdown-child a {
-    color: white;
+    color: black;
     padding: 5px;
     text-decoration: none;
     display: block;

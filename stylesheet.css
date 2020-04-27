@@ -93,12 +93,11 @@ li {
 	background-color: #000000;
 	height: 100px;
 	width: 100%;
-	padding-bottom: 5px;
 }
 
 .header-logo {
 	padding: 10px 20px;
-	font-size: 36px;
+	font-size: 10px;
 	color: white;
 	float: left;
 }

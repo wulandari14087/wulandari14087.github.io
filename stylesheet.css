@@ -50,18 +50,18 @@
 }
 
 .profil {
-    /*background-color: #e15f41;*/
+    background-color: #e15f41;
     color: black;
-    border: none;
+    border-radius: 10%;
     cursor: pointer;
     padding:5px;
     margin-top:20px;
 }
  
-/*.profil:hover {
+.profil:hover {
     background-color: #e38e7b;
     }
- */
+ 
 .dropdown {
     position: relative;
     display: inline-block;

@@ -166,6 +166,19 @@ animation-duration: 5s;cursor: pointer;}
   from {background-color: rgb(5, 196, 107);}
   to {background-color: #218c74;}
 
+/*footer*/
+	.footer {
+	background-color: black;
+	text-align: center;
+}
 
+.footer-logo {
+	color: white;
+}
+
+.footer-list {
+	color: white;
+	
+}
 
 

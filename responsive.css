@@ -1,6 +1,18 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  	.dropdown-child {
+  	.gambar {
+		width:10%;
+	}
+	
+	.gambar1 {
+		width:10%;
+	}
+	
+	.gambar2 {
+		width:10%;
+	}
+	
+	.dropdown-child {
 		min-width: 70px;
 	}
 	

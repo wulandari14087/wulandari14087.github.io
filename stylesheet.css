@@ -169,6 +169,7 @@ animation-duration: 5s;cursor: pointer;}
 @keyframes example {
   from {background-color: rgb(5, 196, 107);}
   to {background-color: #218c74;}
+}
 
 /*footer*/
 	.footer {
